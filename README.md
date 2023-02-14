@@ -1,6 +1,6 @@
 
 # Intellij HTTP Request Scratch files
-A simpler alternative to postman
+A simpler alternative to POSTMAN
 
 ## What are scratch files
 Scratch files can be used to test HTTP requests during development. </br>
