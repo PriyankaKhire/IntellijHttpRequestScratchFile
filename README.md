@@ -25,8 +25,12 @@ Authorization: Bearer Token Value
     "key2": "value2",
 }
 ```
-Note: Always make sure Content-Type is present.
+Note: Always make sure Content-Type is present. </br>
+<img src="img/Example POST request.png" height="220" width="500">
 
+## Good Reads
+<a href="https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html">HTTP Client</a></br>
+<a href="https://www.jetbrains.com/help/idea/exploring-http-syntax.html">Exploring the HTTP request syntax</a>
 
       
     
